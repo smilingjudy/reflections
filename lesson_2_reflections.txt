@@ -23,3 +23,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
   the code is combined.  because it becomes one branch.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  you don't really know what was merged.....it's magic.  
+
